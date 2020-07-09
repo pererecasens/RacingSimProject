@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:leonardo",
-    "sketch": "PedalsControllerV0-2.ino",
-    "programmer": "AVRISP mkII",
-    "port": "COM16"
-}
